@@ -1,7 +1,8 @@
-package com.malik.reactivesearchexample
+package com.mry.reactivesearchexample
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.mry.reactivesearchexample.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {

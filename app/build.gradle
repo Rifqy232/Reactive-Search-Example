@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace 'com.malik.reactivesearchexample'
+    namespace 'com.mry.reactivesearchexample'
     compileSdk 33
 
     defaultConfig {
-        applicationId "com.malik.reactivesearchexample"
+        applicationId "com.mry.reactivesearchexample"
         minSdk 24
         targetSdk 33
         versionCode 1
